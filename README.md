@@ -1,19 +1,4 @@
-# Resumo do Projeto - PIM IV (ADS)
-
-## 📌 Informações Gerais
-- **Universidade:** UNIP EaD  
-- **Curso:** Análise e Desenvolvimento de Sistemas  
-- **Autores:**  
-  - Ana Paula Melo Chinko  
-  - Fabricio Luiz Rocha  
-  - Kamila de Souza Saraiva  
-  - Maria Eduarda da Silva  
-  - Maxwel Marinho de Andrade  
-  - Thomas Andrade Albano  
-- **Orientador(a):** Prof. Me. Karhyne Assis  
-- **Ano:** 2024  
-
----
+# ERP para Startup de Soluções Ambientais - PIM IV (ADS)
 
 ## 🖥️ Objetivo do Projeto
 Desenvolver um software em **linguagem C** para gerenciar **cadastros e relatórios** de uma **startup de soluções ambientais**.
